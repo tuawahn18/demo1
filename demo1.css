@@ -1,0 +1,79 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+nav{
+    background-color: black;
+    padding: 5px;
+    margin: 5px;
+}
+nav a{
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none; 
+}
+nav a:hover{
+    background-color:pink;
+    color:azure;
+}
+.top{
+    text-align: center;
+    padding: 50px;
+    background-color:gainsboro;
+}
+.p1{
+    margin-top: 10px;
+}
+.m1{
+    text-align: center;
+    padding: 10px;
+}
+#skills{
+    text-align: center;
+}
+.note{
+    padding: 15px;
+}
+#projects{
+    text-align: center;
+}
+.m2{
+    padding: 10px;
+    background-color: white;
+}
+#contact{
+    text-align: center;
+}
+footer a{
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+footer a:hover{
+    background-color:black;
+    color: white;
+}
+footer{
+    text-align: center;
+}
+.i1{
+    width:150px;height:150px;
+    margin-left: 100px;
+}
+.i2{
+    width:150px;height:150px;
+    margin-left: 100px;
+}
+.i3{
+    width:150px;height:150px;
+    margin-left: 100px;
+}
+.i4{
+    width:150px;height:150px;
+    margin-left: 100px;
+}
+.i5{
+    width:150px;height:150px;
+    margin-left: 100px;
+}
